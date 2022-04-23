@@ -1,5 +1,5 @@
-# Desafio de projeto sobre Git/GitHub da DIO
-Repositório criado para o desafio de projeto.
+# Projetos: Git/GitHub da DIO
+Repositório criado para o Bootcamp (Órbi Web Games Developer) da DIO em parceria com a Órbi Conecta.
 
 ## Links úteis
 [Guia sobre Markdown](https://www.markdownguide.org/)  
