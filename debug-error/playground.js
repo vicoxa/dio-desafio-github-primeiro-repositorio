@@ -7,7 +7,7 @@ function validaArray(arr, num){
             throw new TypeError("Array precisa ser do tipo object");
 
         if(typeof num !== 'number') 
-            throw new TypeError("Array precisa ser do tipo number");
+            throw new TypeError("Num precisa ser do tipo number");
 
         if(arr.length !== num) 
             throw new RangeError("Tamanho inválido!");
